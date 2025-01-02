@@ -25,8 +25,8 @@ This project automates the process of scraping comments from LinkedIn posts. Usi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Filippo2605/Scraping-Linkeding-Post-s-comments.git
-   cd Scraping-Linkeding-Post-s-comments
+   git clone https://github.com/Filippo2605/Scraping-Linkedin-Post-comments.git
+   cd Scraping-Linkedin-Post-comments
    ```
 
 2. Install the dependencies:
